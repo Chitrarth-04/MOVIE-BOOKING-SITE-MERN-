@@ -1,0 +1,1 @@
+A full-stack web application built with MongoDB, Express.js, React, and Node.js that allows users to browse movies, view showtimes, select seats, and book tickets online. Includes user authentication, admin controls, and real-time seat availability updates.
